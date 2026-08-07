@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Assessment Workflow"
+  short_description: "Schedule, grade, and repeat sales assessments"
+  default_prompt: "Use $sales-assessment-workflow to arrange and manage a sales assessment from notification through retakes."
